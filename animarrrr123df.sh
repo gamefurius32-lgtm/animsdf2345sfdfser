@@ -23,6 +23,7 @@ NODES=(
     "https://github.com/jvififufudzi-alt/7556387HBFGhdh.git"
     "https://github.com/jvififufudzi-alt/65jdgIO.git"
     "https://github.com/teskor-hub/comfyui-teskors-utils.git"
+    "https://github.com/rgthree/rgthree-comfy"
 )
 
 # ЗАГРУЗКА ФАЙЛОВ НУЖНЫХ
@@ -46,7 +47,6 @@ VAE_MODELS=(
 )
 
 DETECTION_MODELS=(
-"https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/Wan22Animate/Wan2_2-Animate-14B_fp8_scaled_e4m3fn_KJ_v2.safetensors"
 "https://huggingface.co/Wan-AI/Wan2.2-Animate-14B/resolve/main/process_checkpoint/det/yolov10m.onnx"
 "https://huggingface.co/Kijai/vitpose_comfy/resolve/main/onnx/vitpose_h_wholebody_data.bin"
 "https://huggingface.co/Kijai/vitpose_comfy/resolve/main/onnx/vitpose_h_wholebody_model.onnx"
@@ -57,6 +57,7 @@ LORAS=(
 "https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/light.safetensors"
 "https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/light.safetensors"
 "https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/WanPusa.safetensors"
+"https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/wan.reworked.safetensors"
 )
 
 CLIP_VISION=(
