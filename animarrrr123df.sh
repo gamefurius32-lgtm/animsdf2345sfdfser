@@ -11,19 +11,18 @@ APT_PACKAGES=()           # если нужно — добавь sudo apt instal
 PIP_PACKAGES=()           # глобальные pip пакеты, если сверх requirements
 
 NODES=(
-    "https://github.com/jvififufudzi-alt/7465jhFGgbw.git"
+    "https://github.com/kijai/ComfyUI-WanVideoWrapper"
     "https://github.com/chflame163/ComfyUI_LayerStyle"
-    "https://github.com/jvififufudzi-alt/4539HGFtes.git"
-    "https://github.com/jvififufudzi-alt/92672BFgtrew.git"
+    "https://github.com/yolain/ComfyUI-Easy-Use"
+    "https://github.com/kijai/ComfyUI-KJNodes"
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     "https://github.com/kijai/ComfyUI-segment-anything-2"
-    "https://github.com/jvififufudzi-alt/7fhskj55.git"
-    "https://github.com/jvififufudzi-alt/53JDgfuw6.git"
-    "https://github.com/jvififufudzi-alt/666GGGtrrwsa77.git"
-    "https://github.com/jvififufudzi-alt/7556387HBFGhdh.git"
-    "https://github.com/jvififufudzi-alt/65jdgIO.git"
-    "https://github.com/teskor-hub/comfyui-teskors-utils.git"
+    "https://github.com/cubiq/ComfyUI_essentials"
+    "https://github.com/fq393/ComfyUI-ZMG-Nodes"
+    "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
     "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/jnxmx/ComfyUI_HuggingFace_Downloader"
+    "https://github.com/teskor-hub/NEW-UTILS.git"
 )
 
 # ЗАГРУЗКА ФАЙЛОВ НУЖНЫХ
